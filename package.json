@@ -34,7 +34,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mangacoinproject/mangacoind-rpc"
+    "url": "https://github.com/neginegi0/mangacoind-rpc"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -53,7 +53,7 @@
     "async": "^1.3.0"
   },
   "bugs": {
-    "url": "https://github.com/mangacoin-project/mangacoind-rpc/issues"
+    "url": "https://github.com/mangacoinproject/mangacoind-rpc/issues"
   },
-  "homepage": "https://github.com/mangacoin-project/mangacoind-rpc"
+  "homepage": "https://github.com/mangacoinproject/mangacoind-rpc"
 }
