@@ -1,7 +1,7 @@
 {
   "name": "mangacoind-rpc",
   "description": "Mangacoin Client Library to connect to Mangacoin Core via RPC",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "author": {
     "name": "Stephen Pair",
     "email": "stephen@bitpay.com"
